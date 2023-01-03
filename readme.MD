@@ -5,3 +5,7 @@
     -- Ir a tu cuenta de gmail(google) y activar la autenticacion de dos pasos.
     -- Despues generar una contraseña de aplicacion.
     -- Crear un archivo password.py y agregar la contraseña de aplicacion, despues importarla en el archivo main.py.
+
+## 3. Calculadora basica
+
+    -- Hay 2 opciones, las 2 hacen lo mismo!
